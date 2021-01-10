@@ -23,7 +23,7 @@ On the back-end,
 
 Made by [Glitch](https://glitch.com/)
 -------------------
-Test this CLS Bot in Messenger
+Test this CLS Bot in Facebook Messenger
 https://m.me/clsbot
 
 \ ゜o゜)ノ
